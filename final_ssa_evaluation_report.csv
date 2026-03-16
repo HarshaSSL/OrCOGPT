@@ -1,0 +1,204 @@
+query,reference_label,reference_intent,actual_route,actual_output,is_deterministic_correct,is_llm_correct,final_success
+"What satellites or debris were close to PROGRESS-M 55 on February 03, 2026?",sufficient,proximity_search,sufficient,"I am unable to retrieve the necessary TLE data for PROGRESS-M 55 on February 03, 2026, as there is no available data for that date. Please check back later or consult other satellite tracking resources for the required information.",True,True,True
+I need to calculate a collision risk for STARLINK-34823 next week.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to specify the exact date for ""next week"" to complete your query.",True,True,True
+"Would you mind helping me excerpt the TLE parameters for INDEX from February 17, 2026.",sufficient,tle_extraction,sufficient,"I am unable to retrieve the TLE parameters for INDEX from February 17, 2026, as there is no available data for that date. Please check back later or consult other satellite tracking resources for the required information.",True,True,True
+"Find all possible colliding space objects near SMM DEB on February 12, 2026.",sufficient,proximity_search,sufficient,"I am unable to retrieve the necessary TLE data to find all possible colliding space objects near SMM DEB on February 12, 2026, due to a backend error. Please try again later or check the satellite tracking databases for the latest TLE information.",True,True,True
+"For 62097, count on the collision probability recorded on February 26, 2026.",sufficient,conjunction_assessment,unknown,,False,False,False
+Tell me about the history of 48185.,out_of_scope,entity_information_request,out_of_scope,"Satellite 48185 is known as ""Tiangong,"" which is part of China's space station program. Launched by the China National Space Administration (CNSA), Tiangong is a space laboratory designed for various scientific experiments and technology demonstrations in microgravity.
+
+### Key Points in its History:
+
+- **Launch Date:** Tiangong was launched on September 29, 2011. It was the first of three space laboratories planned by China as part of its goal to establish a modular space station by the 2020s.
+
+- **Purpose:** The primary purpose of Tiangong was to test technologies for space rendezvous and docking, as well as to conduct scientific experiments in areas such as biology, materials science, and astronomy.
+
+- **Manned Missions:** Tiangong hosted several manned missions, with astronauts (taikonauts) living and working aboard the module. The first crewed mission, Shenzhou 9, docked with Tiangong on June 18, 2012.
+
+- **Decommissioning:** Tiangong was decommissioned in 2016 after completing its mission objectives. The satellite re-entered the Earth's atmosphere in April 2016.
+
+If you need more specific details or updates regarding Tiangong or related missions, feel free to ask!
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*",True,True,True
+Is it possible to calculate a collision risk for ABS 6 (LMI 1) next month.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to provide a specific date or epoch for ""next month"" to clarify the temporal constraint.",True,True,True
+Is 40435 still in service?,out_of_scope,entity_information_request,out_of_scope,"Satellite 40435 is known as ""Tiangong 2,"" which is a Chinese space laboratory. Tiangong 2 was launched by the China National Space Administration (CNSA) on September 15, 2016. It was primarily used for tests of space docking technology and conducting experiments in a microgravity environment.
+
+As of my last update, Tiangong 2 was deorbited in July 2019 after completing its mission. Therefore, it is no longer in service. If you require the latest status or details about other ongoing missions, please consult a reliable satellite tracking resource or space agency updates.
+
+If you need further assistance, feel free to ask! 
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*",True,True,True
+I'm trying to fetch the TLE for 19525.,insufficient,missing_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to add a specific date or epoch for when you want to fetch the TLE.",True,True,True
+Who launched 10963?,out_of_scope,entity_information_request,out_of_scope,"Satellite 10963 is known as ""GSAT-4,"" which was launched by the Indian Space Research Organisation (ISRO) on December 8, 2007. GSAT-4 was intended for providing services in the Indian communication satellite system.
+
+If you need more information about this satellite or its mission, feel free to ask!
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*",True,True,True
+"Find objects that were near the satellite on February 07, 2026.",insufficient,missing_entity_id,insufficient,"🔍 **Missing Information Identified**
+
+You need to provide the Satellite Identity (Name or NORAD ID) and specify the Specific Action (e.g., TLE fetch, Collision Risk).",True,True,True
+Is 54348 still in service?,out_of_scope,entity_information_request,out_of_scope,"Satellite 54348 is known as ""Starlink 1437,"" part of SpaceX's Starlink satellite constellation. As of my last update, Starlink satellites are generally designed for operational service for several years, but specific operational status can change frequently due to various factors such as deorbiting, malfunction, or upgrades.
+
+To confirm if Starlink 1437 (NORAD ID 54348) is still in service, I recommend checking the latest updates from SpaceX or satellite tracking resources that provide real-time status information for satellites. If you have access to a satellite tracking tool, you can also verify its current status there.
+
+If you need help with a specific tool or resource, let me know!
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*",True,True,True
+"Assess the conjunction event for 60134 that happened on February 03, 2026.",sufficient,conjunction_assessment,unknown,,False,False,False
+I'm trying to fetch the TLE for 60098.,insufficient,missing_temporal_constraint,unknown,,False,False,False
+"Is it possible to pull up the TLE parameters for 16969 from February 12, 2026.",sufficient,tle_extraction,sufficient,"The historical TLE data for satellite ID 16969 on February 12, 2026, is as follows:
+
+**TLE Data:**
+```
+1 16969U 86073A   26042.99015778  .00000193  00000-0  93477-4 0  9992
+2 16969  98.6970  36.4398 0012246   7.7619  57.7379 14.29132651 51536
+```
+
+**Epoch:** February 12, 2026 (in Julian date: 26042.99015778)
+
+If you need further analysis or information regarding this satellite, feel free to ask!",True,True,True
+I'm looking for help with calculate a collision risk for 5745 next week.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to specify the exact date for ""next week"" to provide a temporal constraint.",True,True,True
+Is it possible to calculate a collision risk for 4401 2028.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to provide a specific date or epoch for the collision risk calculation. Please add that information.",True,True,True
+"Fetch the historical TLE for 18946 on February 21, 2026.",sufficient,tle_extraction,sufficient,"The historical TLE data for satellite ID 18946 on February 21, 2026, is as follows:
+
+**TLE Data:**
+```
+1 18946U 88017A   26051.79067798  .00001633  00000-0 -50742-3 0  9994
+2 18946  62.0606 274.4441 7367910 266.4725  15.1437  2.00648596278021
+```
+
+**Epoch:** February 21, 2026 (in Julian date: 26051.79067798)
+
+If you need further analysis or information regarding this satellite, feel free to ask!",True,True,True
+Can you verify if there is any risk for the satellite?,insufficient,missing_all_metadata,insufficient,"🔍 **Missing Information Identified**
+
+You need to provide the satellite's identity (name or NORAD ID) and specify a date or time frame for the risk assessment.",True,True,True
+What is the country of origin for 8064?,out_of_scope,entity_information_request,out_of_scope,"Satellite ID 8064 corresponds to the ""KITSAT-1"" satellite, which was developed by South Korea. It was launched on August 10, 1992, as part of South Korea's efforts to develop its own satellite technology. If you need more specific details or further information about this satellite, feel free to ask!
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*",True,True,True
+"I'm looking for help with excerption the TLE parameters for 59347 from February 20, 2026.",sufficient,tle_extraction,sufficient,"I was unable to retrieve the Two-Line Element (TLE) data for satellite ID 59347 on February 20, 2026, as there is no available TLE data for that date. This could be due to the satellite not being active or tracked during that time.
+
+If you have any other questions or need information on a different satellite or date, feel free to ask!",True,True,True
+I'm looking for help with calculate a collision risk for STARLINK-1086 next week.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to specify the exact date for ""next week"" to provide a temporal constraint.",True,True,True
+"For ORBCOMM OG2, direct the collision probability recorded on February 14, 2026.",sufficient,conjunction_assessment,sufficient,"I encountered a timeout error while trying to calculate the collision probability for ORBCOMM OG2 on February 14, 2026. This means I was unable to retrieve the data at this time.
+
+If you would like, I can attempt the calculation again or assist you with any other inquiries!",True,True,True
+"Can you halt the conjunction assessment for STARLINK-2469 during February 19, 2026?",sufficient,conjunction_assessment,sufficient,"It seems that you are requesting to halt a conjunction assessment, but I do not have the capability to perform actions such as halting assessments. My role is to provide information and analysis based on available data.
+
+If you need information about the conjunction assessment for STARLINK-2469 on February 19, 2026, please let me know!",True,True,True
+"Is it possible to analyze the orbital apogee for February 03, 2026.",insufficient,missing_entity_id,insufficient,"🔍 **Missing Information Identified**
+
+You need to provide the Satellite Identity (Name or NORAD ID) to complete your query.",True,True,True
+Can you please calculate a collision risk for 57033 next week.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to specify the exact date for ""next week"" and confirm if you want the collision risk calculated for a specific satellite or object.",True,True,True
+Is it possible to calculate a collision risk for 53158 in 2027.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to specify a specific date in 2027 for the collision risk calculation.",True,True,True
+"Fetch the historical TLE for 25771 on January 30, 2026.",sufficient,tle_extraction,sufficient,"The historical TLE data for satellite ID 25771 on January 30, 2026, is as follows:
+
+**TLE Data:**
+```
+1 25771U 99031B   26029.31069050 -.00000103  00000-0 -13101-2 0  9991
+2 25771  51.9894  41.5626 0002791  45.5246 314.5778 11.12121596142583
+```
+
+**Epoch:** January 30, 2026 (in Julian date: 26029.31069050)
+
+If you need further analysis or information regarding this satellite, feel free to ask!",True,True,True
+"I need to find the orbital data for 42127 on February 24, 2026.",sufficient,orbital_data_retrieval,sufficient,"I was unable to retrieve the Two-Line Element (TLE) data for satellite ID 42127 on February 24, 2026, as there is no available TLE data for that date. This could be due to the satellite not being active or tracked during that time. If you have any other questions or need information on a different satellite or date, feel free to ask!",True,True,True
+Which launch site was used for 37531?,out_of_scope,entity_information_request,out_of_scope,"It appears that the number ""37531"" does not correspond to a widely recognized launch or mission identifier. If you could provide more context or clarify what you mean by ""37531,"" I would be happy to help you find the information you are looking for!
+
+---
+💡 *Note: This response was generated entirely by the LLM. No OrCo-GPT specialized SSA tools were used for this query.*",True,True,True
+I'm looking for help with calculate a collision risk for 65300 in 2027.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+Your query is missing a specific date or epoch in 2027 for the collision risk calculation. Please provide that detail.",True,True,True
+I'm trying to fetch the TLE for COSMOS 1854.,insufficient,missing_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to add a specific date or epoch for when you want to fetch the TLE for COSMOS 1854.",True,True,True
+Can you please calculate a collision risk for HAWKSAT 1 in 2027.,insufficient,invalid_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to specify the exact date in 2027 for the collision risk calculation.",True,True,True
+"I need to call back the orbital data for 15715 on February 11, 2026.",sufficient,orbital_data_retrieval,sufficient,"The Two-Line Element set (TLE) for satellite ID 15715 on February 11, 2026, is as follows:
+
+```
+1 15715U 85037H   26041.89020428  .00010133  00000-0  20029-2 0  9991
+2 15715  51.9788 213.7007 5010876 211.7297 104.8614  5.58660024615131
+```
+
+This TLE data provides the satellite's orbital parameters at the specified epoch.",True,True,True
+"Can you please analyze the orbital apogee for March 01, 2026.",insufficient,missing_entity_id,insufficient,"🔍 **Missing Information Identified**
+
+You need to add the satellite identity (name or NORAD ID) to your query.",True,True,True
+"Is it possible to find the orbital data for 56884 on January 31, 2026.",sufficient,orbital_data_retrieval,sufficient,"The Two-Line Element set (TLE) for satellite ID 56884 on January 31, 2026, is as follows:
+
+```
+1 56884U 23083J   26030.75624794 -.00001154  00000-0 -70354-4 0  9998
+2 56884  43.0056 287.9468 0001378 259.9139 100.1548 15.02530560145963
+```
+
+This TLE data provides the satellite's orbital parameters at the specified epoch.",True,True,True
+"Can you please regain the orbital data for 53737 on February 14, 2026.",sufficient,orbital_data_retrieval,sufficient,"I cannot provide the Two-Line Element set (TLE) for satellite ID 53737 on February 14, 2026, because there is no available TLE data for that date.",True,False,False
+I'm trying to fetch the TLE for 16578.,insufficient,missing_temporal_constraint,insufficient,"🔍 **Missing Information Identified**
+
+You need to add a specific date or epoch for when you want to fetch the TLE.",True,True,True
+"Give me the Two-Line Element set for 31519 for February 25, 2026.",sufficient,tle_extraction,sufficient,"The Two-Line Element set (TLE) for satellite ID 31519 on February 25, 2026, is as follows:
+
+```
+1 31519U 99025BXJ 26055.21880768  .00001014  00000-0  45746-3 0  9997
+2 31519  98.5786  54.9090 0053319  30.4095 330.0158 14.23572184658100
+```
+
+This TLE data indicates the satellite's orbital parameters at the specified epoch.",True,True,True
+"Give me the Two-Line Element set for 24243 for February 01, 2026.",sufficient,tle_extraction,sufficient,"I cannot provide the Two-Line Element set (TLE) for satellite ID 24243 on February 01, 2026, because there is no available TLE data for that date.",True,False,False
+"I'm looking for help with find the orbital data for 16160 on February 20, 2026.",sufficient,orbital_data_retrieval,unknown,,False,False,False
+"I need to recollect the orbital data for SICRAL 1B on February 24, 2026.",sufficient,orbital_data_retrieval,sufficient,"I encountered an issue while trying to retrieve the orbital data for SICRAL 1B on February 24, 2026. Unfortunately, no TLE data was found for that date. Please check for other dates or try again later.",True,False,False
+"Would you mind helping me regain the orbital data for STARLINK-5055 on February 02, 2026.",sufficient,orbital_data_retrieval,sufficient,"I encountered an issue while trying to retrieve the orbital data for STARLINK-5055 on February 02, 2026. Unfortunately, no TLE data was found for that date. Please check for other dates or try again later.",True,False,False
+"What satellites or debris were close to 18204 on March 01, 2026?",sufficient,proximity_search,sufficient,"I encountered an issue while trying to retrieve information about satellites or debris close to entity 18204 on March 01, 2026. Unfortunately, the necessary data is not available at this time. Please try again later or check for updates.",True,True,True
+"Are there any recorded close approaches for 28832 on February 27, 2026?",sufficient,proximity_search,sufficient,"I encountered a backend error while trying to retrieve recorded close approaches for entity 28832 on February 27, 2026. Unfortunately, I cannot provide the requested data due to this issue. Please try again later or check for updates.",True,True,True
+"Is it possible to regain the orbital data for 64651 on February 02, 2026.",sufficient,orbital_data_retrieval,sufficient,"The TLE parameters for entity 64651 on February 02, 2026, are as follows:
+
+**Full TLE:**
+```
+1 64651U 24140AER 26031.57431255  .00001968  00000-0  99140-3 0  9997
+2 64651  88.3370 249.3889 0078938 282.1015  77.1336 14.14384472 67716
+```
+
+**Key Parameters:**
+- **NORAD ID:** 64651
+- **Epoch:** 26031.57431255
+- **Inclination:** 88.3370 degrees
+- **Right Ascension of Ascending Node:** 249.3889 degrees
+- **Eccentricity:** 0.0078938
+- **Argument of Perigee:** 282.1015 degrees
+- **Mean Anomaly:** 77.1336 degrees
+- **Mean Motion:** 14.14384472 revolutions per day
+
+If you need further analysis or information, feel free to ask!",True,True,True
+"Is it possible to think the orbital data for MARSCOM on February 13, 2026.",sufficient,orbital_data_retrieval,sufficient,"I encountered an issue while trying to retrieve the orbital data for MARSCOM on February 13, 2026. Unfortunately, no TLE data was found for that date. Please check for other dates or try again later.",True,False,False
+"Can you please distil the TLE parameters for 33578 from February 16, 2026.",sufficient,tle_extraction,sufficient,"I encountered an issue while trying to retrieve the TLE parameters for entity 33578 on February 16, 2026. Unfortunately, no TLE data was found for that date. Please check for other dates or try again later.",True,False,False
+"Assess the conjunction event for FLOCK 2K 11 that happened on February 26, 2026.",sufficient,conjunction_assessment,sufficient,"I encountered a backend error while trying to assess the conjunction event for FLOCK 2K 11 on February 26, 2026. Unfortunately, I cannot provide the requested data due to this issue. Please try again later or check for updates.",True,True,True
+"For 7078, look the collision probability recorded on February 21, 2026.",sufficient,conjunction_assessment,sufficient,"I encountered a backend error while trying to retrieve the collision probability for the entity identified as 7078 on February 21, 2026. Unfortunately, I cannot provide the requested data due to this issue. Please try again later or check for updates.",True,True,True
